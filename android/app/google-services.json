@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711882527798",
+    "project_id": "pabjobs-e34be",
+    "storage_bucket": "pabjobs-e34be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711882527798:android:c724ee53840994c81e7497",
+        "android_client_info": {
+          "package_name": "com.example.pabjobs_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711882527798-340q6imvel77qu7t2hhhptnf9fpuuls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pabjobs_fb",
+            "certificate_hash": "4822f2c86ce20e9c43a74c58cdfe0ee735b9845f"
+          }
+        },
+        {
+          "client_id": "711882527798-5sgbdbbiij7l9hlfa4qtnm3guuq39gbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMur95XalHHyP4UVZwBWqXHIRRDSedaNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711882527798-5sgbdbbiij7l9hlfa4qtnm3guuq39gbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
